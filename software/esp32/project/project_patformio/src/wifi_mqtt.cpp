@@ -7,11 +7,11 @@ WiFiClient espClient;
 PubSubClient mqttClient(espClient);
 
 // WiFi settings
-const char *ssid = "DuRuofu";					// Change to your WiFi SSID
-const char *password = "3.1415926"; // Change to your WiFi password
+const char *ssid = "CHARLOTTE";					// Change to your WiFi SSID
+const char *password = "413Rm44]"; // Change to your WiFi password
 
 // MQTT settings
-const char *mqtt_server = "www.duruofu.top"; // MQTT server address
+const char *mqtt_server = "192.168.178.3"; // MQTT server address
 const int mqtt_port = 1883;									 // MQTT port
 const char *mqtt_user = "username";					 // MQTT username
 const char *mqtt_pass = "password";					 // MQTT password
