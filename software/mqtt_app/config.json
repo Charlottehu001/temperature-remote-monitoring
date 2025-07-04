@@ -1,0 +1,7 @@
+{
+    "host": "www.duruofu.top",
+    "port": "1883",
+    "client_id": "PySide6_MQTT_Client",
+    "username": "admin",
+    "password": "123456"
+}
